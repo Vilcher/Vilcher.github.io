@@ -46,3 +46,41 @@ table{
 	width:100px;
 	height:100px;
 }
+.krug{
+	height:100px;
+	width:100px;
+	background-color:rgba(94,94,94,0.7);
+	padding:10px;
+	border:1px #000000 solid;
+	border-radius:70px;
+}
+.strelka1{
+	width:10px;
+	height:70px;
+	background-color:#000000;
+	position:relative;
+	left:45px;
+	top:15px;
+	animation:linear 5s rotate infinite;
+}
+.strelka2{
+	width:10px;
+	height:70px;
+	background-color:#000000;
+	position:relative;
+	left:47px;
+	top:-55px;
+	transform:rotate(90deg);
+	animation:linear 2.5s rotate infinite;
+}
+@keyframes rotate{
+	0%{}
+	100%{transform:rotate(360deg);}
+}
+.s1{
+	background-color:rgba(94,94,94,0.7);
+	height:35px;
+	width:10px;
+	position:relative;
+	top:50%;
+}
