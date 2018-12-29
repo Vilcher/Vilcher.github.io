@@ -3,7 +3,7 @@
 	color:white;
 	max-width:1360px;
 	min-width:16px;
-	height:16000px;
+	min-height:16px;
 	border: 3px solid #B4B4B4;
 	margin:10px;
 	padding:10px;
