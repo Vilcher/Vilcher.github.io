@@ -1,0 +1,44 @@
+.steam{
+	background-color:rgba(0,0,0,0.7);
+	color:white;
+	width:1360px;
+	height:570px;
+	border: 3px solid #B4B4B4;
+	margin:10px;
+	padding:10px;
+	
+}
+body{
+	background-image:url(https://steamusercontent-a.akamaihd.net/ugc/2439138762291061216/B887E00F90894235712087C692CE93D2BAB277A2/);
+	background-size:100%;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	color:white;
+	font-size:24px;
+}
+a{
+	color:blue;
+}
+input{
+	background-color:rgba(180,180,180,0.7);
+	border:1px solid #000000;
+	border-radius:30px;
+	opacity:0.7;
+	padding:10px;
+	padding-left:17px;
+	margin:10px;
+}
+img{
+	border: 1px solid #ffffff;
+}
+img:hover{
+	transform:scale(2.0);
+}
+table{
+	background-color:rgba(0,0,0,0.3);
+	border: 3px solid #ffffff;
+	margin:10px;
+	padding:4px;
+	width:100px;
+	height:100px;
+}
