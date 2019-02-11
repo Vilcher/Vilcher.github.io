@@ -19,7 +19,7 @@ body{
 	color:white;
 	position:relative;
 	left:250px;
-	top:-600px;
+	top:-570px;
 }
 
 #hr{
@@ -30,4 +30,8 @@ body{
 
 #hui{
 	font-size: 20px;
+}
+
+audio{
+	width:250px;
 }
